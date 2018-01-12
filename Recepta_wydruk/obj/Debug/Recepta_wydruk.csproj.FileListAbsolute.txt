@@ -1,0 +1,11 @@
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\bin\Debug\Recepta_wydruk.exe.config
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\bin\Debug\Recepta_wydruk.exe
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\bin\Debug\Recepta_wydruk.pdb
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\obj\Debug\Recepta_wydruk.csprojResolveAssemblyReference.cache
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\obj\Debug\Recepta_wydruk.Properties.Resources.resources
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\obj\Debug\Recepta_wydruk.csproj.GenerateResource.Cache
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\obj\Debug\Recepta_wydruk.csproj.CoreCompileInputs.cache
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\obj\Debug\Recepta_wydruk.exe
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\obj\Debug\Recepta_wydruk.pdb
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\obj\Debug\Recepta_wydruk.Recepta.resources
+C:\Users\E540\source\repos\Recepta_wydruk\Recepta_wydruk\bin\Debug\Zen.Barcode.Core.dll
